@@ -1,5 +1,5 @@
 # Mix
-The Mix modules are a range of Eurorack synth modules created by [Rebel Technology](http://rebeltech.org). They can be used stand-alone or in combination to build custom mixers and routers, both for for audio and control voltages. Featuring an Analogue Bus, the modules can be daisy chained to create larger, more complex systems with endless routing possiblities.
+The Mix modules are a range of Eurorack synth modules created by [Rebel Technology](http://rebeltech.org). They can be used stand-alone or in combination to build custom mixers and routers, both for audio and control voltages. Featuring an Analogue Bus, the modules can be daisy chained to create larger, more complex systems with endless routing possiblities.
 
 ## Mix 01
 ![Mix 01](http://www.rebeltech.org/wp-content/uploads/2017/04/mix-01-117x300.jpg)

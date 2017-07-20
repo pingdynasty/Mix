@@ -3,7 +3,7 @@ Rebel Technology extensible Mix modules.
 
 ## Mix 01
 Mix 01 is a 4 in, 2 out matrix mixer with additional headphone output.
-* [Schematics](hardware/LinearMixerRev04-schematics.pdf)
+* [Schematic](hardware/LinearMixerRev04-schematic.pdf)
 * [Bill of Materials](hardware/LinearMixerRev04-BOM.pdf)
 * Product Page: http://rebeltech.org/products/mix-01
 
@@ -13,7 +13,7 @@ Mix 02 is a 4 in, 2 out panning mixer with additional headphone output.
 
 ## Mix 03
 Mix 03 is a 4 input mono mixer for audio and CV signals.
-* [Schematics](hardware/MonoMixerRev02-schematics.pdf)
+* [Schematic](hardware/MonoMixerRev02-schematic.pdf)
 * [Bill of Materials](hardware/MonoMixerRev02-BOM.pdf)
 * Product Page: http://rebeltech.org/products/mix-03
 
